@@ -1,0 +1,1 @@
+name, age, male = "Vũ Thanh Tài", 22 , True
